@@ -8,6 +8,5 @@ public class Day0 {
         Scanner scanner = new Scanner(System.in);
         String input = scanner.nextLine();
         System.out.println("Hello, World. \n" + input);
-        scanner.close();
     }
 }
