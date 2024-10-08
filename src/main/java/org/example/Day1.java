@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 public class Day1 {
 
-    int i = 4;
-    double d = 4.0;
-    String s = "HackerRank ";
+    static int i = 4;
+    static double d = 4.0;
+    static String s = "HackerRank ";
 
     public static void day1(int i, double d, String s) {
         Scanner scanner = new Scanner(System.in);
