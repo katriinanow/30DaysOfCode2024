@@ -6,6 +6,7 @@ public class Main {
         //Day1.day1(i, d, s);
         //Day2.calculateTotalCost(mealCost, tipPercent, taxPercent);
         //Day3.checkNumber();
-        Day4.day4();
+        //Day4.day4();
+        Day5.day5();
     }
 }
