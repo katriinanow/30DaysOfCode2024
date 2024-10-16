@@ -13,6 +13,7 @@ public class Main {
         //Day6.day6();
         //Day7.day7();
         //Day8.day8();
-        Day9.day9();
+        //Day9.day9();
+        Day10.day10();
     }
 }
